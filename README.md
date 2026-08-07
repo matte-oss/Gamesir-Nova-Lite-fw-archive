@@ -1,4 +1,4 @@
-#Gamesir Nova Lite firmware
+# Gamesir Nova Lite firmware
 
 Firmware files and a packet capture collected while investigating the OTA firmware update process for the Gamesir Nova Lite / T4N Lite controller.
 
